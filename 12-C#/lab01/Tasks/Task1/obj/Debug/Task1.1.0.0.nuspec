@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Task1</id>
+    <version>1.0.0</version>
+    <authors>Task1</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="4cae7b8af613c66eb252eef6a6c91716ef508a3e" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ITI\ITI-Labs\12-C#\lab01\Tasks\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json" target="lib\net8.0\Task1.runtimeconfig.json" />
+    <file src="D:\ITI\ITI-Labs\12-C#\lab01\Tasks\Task1\bin\Debug\net8.0\Task1.dll" target="lib\net8.0\Task1.dll" />
+  </files>
+</package>
