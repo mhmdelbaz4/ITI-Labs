@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\bin\Debug\net8.0\MaxDistance.exe
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\bin\Debug\net8.0\MaxDistance.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\bin\Debug\net8.0\MaxDistance.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\bin\Debug\net8.0\MaxDistance.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\bin\Debug\net8.0\MaxDistance.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\refint\MaxDistance.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\MaxDistance.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\Task1\obj\Debug\net8.0\ref\MaxDistance.dll

@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\bin\Debug\net8.0\onesCounter-sol2.exe
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\bin\Debug\net8.0\onesCounter-sol2.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\bin\Debug\net8.0\onesCounter-sol2.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\bin\Debug\net8.0\onesCounter-sol2.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\bin\Debug\net8.0\onesCounter-sol2.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\refint\onesCounter-sol2.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\onesCounter-sol2.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\onesCounter-sol2\obj\Debug\net8.0\ref\onesCounter-sol2.dll

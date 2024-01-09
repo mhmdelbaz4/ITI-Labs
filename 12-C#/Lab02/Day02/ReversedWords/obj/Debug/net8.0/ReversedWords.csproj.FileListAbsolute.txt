@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\bin\Debug\net8.0\ReversedWords.exe
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\bin\Debug\net8.0\ReversedWords.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\bin\Debug\net8.0\ReversedWords.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\bin\Debug\net8.0\ReversedWords.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\bin\Debug\net8.0\ReversedWords.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\refint\ReversedWords.dll
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.pdb
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ReversedWords.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab02\Day02\ReversedWords\obj\Debug\net8.0\ref\ReversedWords.dll
