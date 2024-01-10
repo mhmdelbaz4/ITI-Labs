@@ -1,18 +1,32 @@
-﻿int num = 99999999;
+﻿using System.Diagnostics;
+
+int num = 99999999;
+
+Stopwatch stopwatch = new Stopwatch();
+
+stopwatch.Start();
 int result = countOnes(num);
+stopwatch.Stop();
 
 Console.WriteLine(result);
+Console.WriteLine(stopwatch.ElapsedMilliseconds);
+
+
 
 static int countOnes(int value)
 {
+    if (value.ToString().Length == 1)
+        return 0;
 
     if (value.ToString().Length == 2)
         return 20;
 
     int power = value.ToString().Length - 1;
 
-    return 9 * countOnes(value / 10) +(int) Math.Pow(10,power);
+    return 9 * countOnes(value / 10) +(int) Math.Pow(10,power)+ countOnes(value / 10);
 }
+
+
 /// 9999 : 9* count() * 
 
 /*

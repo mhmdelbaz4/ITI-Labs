@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("onesCounter-sol2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db222c1d8561c7dbe83b5ba0d1f4ebe71ab1f626")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6cbb3d64a1de8b0fa05bb60e90c077ffe8593f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("onesCounter-sol2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("onesCounter-sol2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
