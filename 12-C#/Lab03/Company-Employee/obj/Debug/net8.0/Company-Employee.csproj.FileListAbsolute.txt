@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\bin\Debug\net8.0\Company-Employee.exe
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\bin\Debug\net8.0\Company-Employee.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\bin\Debug\net8.0\Company-Employee.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\bin\Debug\net8.0\Company-Employee.dll
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\bin\Debug\net8.0\Company-Employee.pdb
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.dll
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\refint\Company-Employee.dll
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.pdb
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\Company-Employee.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab03\Company-Employee\obj\Debug\net8.0\ref\Company-Employee.dll
