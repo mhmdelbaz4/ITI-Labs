@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\bin\Debug\net8.0\Duration.exe
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\bin\Debug\net8.0\Duration.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\bin\Debug\net8.0\Duration.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\bin\Debug\net8.0\Duration.dll
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\bin\Debug\net8.0\Duration.pdb
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.dll
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\refint\Duration.dll
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.pdb
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\Duration.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab04\3DPoint&Duration\Duration\obj\Debug\net8.0\ref\Duration.dll

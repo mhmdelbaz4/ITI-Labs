@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueue", "Stack\StackAndQueue.csproj", "{FC909E6D-4E82-4750-BAF6-3FC3D50C2AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceOfShape", "InheritanceOfShape\InheritanceOfShape.csproj", "{23F0ABD8-C3A5-4168-B1F3-8101435F9A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC909E6D-4E82-4750-BAF6-3FC3D50C2AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC909E6D-4E82-4750-BAF6-3FC3D50C2AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC909E6D-4E82-4750-BAF6-3FC3D50C2AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC909E6D-4E82-4750-BAF6-3FC3D50C2AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F0ABD8-C3A5-4168-B1F3-8101435F9A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F0ABD8-C3A5-4168-B1F3-8101435F9A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F0ABD8-C3A5-4168-B1F3-8101435F9A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F0ABD8-C3A5-4168-B1F3-8101435F9A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C4E92B-BF4A-455C-B90E-0FB6A5400DE4}
+	EndGlobalSection
+EndGlobal

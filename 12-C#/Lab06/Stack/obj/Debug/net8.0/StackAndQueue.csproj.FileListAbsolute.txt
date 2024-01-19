@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\bin\Debug\net8.0\StackAndQueue.exe
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\bin\Debug\net8.0\StackAndQueue.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\bin\Debug\net8.0\StackAndQueue.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\bin\Debug\net8.0\StackAndQueue.dll
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\bin\Debug\net8.0\StackAndQueue.pdb
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.dll
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\refint\StackAndQueue.dll
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.pdb
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\StackAndQueue.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab06\Stack\Stack\obj\Debug\net8.0\ref\StackAndQueue.dll
