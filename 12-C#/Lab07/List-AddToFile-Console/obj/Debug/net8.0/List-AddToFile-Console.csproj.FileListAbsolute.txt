@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\bin\Debug\net8.0\List-AddToFile-Console.exe
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\bin\Debug\net8.0\List-AddToFile-Console.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\bin\Debug\net8.0\List-AddToFile-Console.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\bin\Debug\net8.0\List-AddToFile-Console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\bin\Debug\net8.0\List-AddToFile-Console.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\refint\List-AddToFile-Console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\List-AddToFile-Console.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\List-AddToFile-Console\obj\Debug\net8.0\ref\List-AddToFile-Console.dll

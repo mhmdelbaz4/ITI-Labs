@@ -1,0 +1,12 @@
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\newLibrary.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\newLibrary.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\newLibrary.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\refint\newLibrary.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\newLibrary.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\ref\newLibrary.dll

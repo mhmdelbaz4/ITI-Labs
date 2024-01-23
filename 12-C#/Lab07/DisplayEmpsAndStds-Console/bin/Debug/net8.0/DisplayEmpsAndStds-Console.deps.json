@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DisplayEmpsAndStds-Console/1.0.0": {
+        "dependencies": {
+          "newLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DisplayEmpsAndStds-Console.dll": {}
+        }
+      },
+      "newLibrary/1.0.0": {
+        "runtime": {
+          "newLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DisplayEmpsAndStds-Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "newLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

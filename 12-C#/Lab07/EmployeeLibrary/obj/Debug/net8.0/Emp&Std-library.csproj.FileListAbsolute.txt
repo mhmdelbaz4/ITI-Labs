@@ -1,0 +1,12 @@
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\Emp&Std-library.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\Emp&Std-library.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\bin\Debug\net8.0\Emp&Std-library.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\refint\Emp&Std-library.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\Emp&Std-library.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\EmployeeLibrary\obj\Debug\net8.0\ref\Emp&Std-library.dll

@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\bin\Debug\net8.0\Lab08.exe
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\bin\Debug\net8.0\Lab08.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\bin\Debug\net8.0\Lab08.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\bin\Debug\net8.0\Lab08.dll
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\bin\Debug\net8.0\Lab08.pdb
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.dll
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\refint\Lab08.dll
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.pdb
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\Lab08.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab08\Lab08\obj\Debug\net8.0\ref\Lab08.dll

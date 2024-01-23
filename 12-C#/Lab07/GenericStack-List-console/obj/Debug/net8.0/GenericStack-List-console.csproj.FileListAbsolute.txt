@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\bin\Debug\net8.0\GenericStack-List-console.exe
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\bin\Debug\net8.0\GenericStack-List-console.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\bin\Debug\net8.0\GenericStack-List-console.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\bin\Debug\net8.0\GenericStack-List-console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\bin\Debug\net8.0\GenericStack-List-console.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\refint\GenericStack-List-console.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\GenericStack-List-console.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\GenericStack-List-console\obj\Debug\net8.0\ref\GenericStack-List-console.dll

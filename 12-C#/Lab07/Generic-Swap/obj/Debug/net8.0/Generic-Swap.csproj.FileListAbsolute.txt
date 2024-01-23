@@ -1,0 +1,15 @@
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\bin\Debug\net8.0\Generic-Swap.exe
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\bin\Debug\net8.0\Generic-Swap.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\bin\Debug\net8.0\Generic-Swap.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\bin\Debug\net8.0\Generic-Swap.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\bin\Debug\net8.0\Generic-Swap.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\refint\Generic-Swap.dll
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.pdb
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\Generic-Swap.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab07\Lab07\Generic-Swap\obj\Debug\net8.0\ref\Generic-Swap.dll
