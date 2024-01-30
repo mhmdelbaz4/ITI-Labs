@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:simpleType name="stateType">
+		<xs:restriction base="xs:string">
+				<xs:pattern value="[A-Z]{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="cityType">
+		<xs:restriction base="xs:integer">
+				<xs:pattern value="\d{5}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="countryType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Z]{2,3}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="partNumType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{3}-[A-z]{2}" />
+		</xs:restriction>	
+	</xs:simpleType>
+
+	<xs:element name="name" type="xs:string"/>
+	<xs:element name="street" type="xs:string"/>
+	<xs:element name="city" type="xs:string"/>
+	<xs:element name="state" type="stateType"/>
+	<xs:element name="zip" type="cityType"/>
+
+	<xs:attribute name="country" type="countryType"/>
+
+	<xs:group name="ShipOrBillTo">
+		<xs:sequence>
+				<xs:element ref="name"/>
+				<xs:element ref="street"/>
+				<xs:element ref="city"/>
+				<xs:element ref="state"/>
+				<xs:element ref="zip"/>
+		</xs:sequence>
+	</xs:group>
+
+	<xs:group name="ItemGroup">
+		<xs:sequence>	
+				<xs:element ref="productName"/>
+				<xs:element ref="quantity"/>
+				<xs:element ref="USPrice"/>
+				<xs:element ref="comment" minOccurs="0" maxOccurs="1"/>
+				<xs:element ref="shipDate" minOccurs="0" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="ShipOrOrderToType">
+		<xs:group ref="ShipOrBillTo"/>
+		<xs:attribute ref="country"/>
+	</xs:complexType>
+		
+	<xs:element name="shipTo" type="ShipOrOrderToType"/>
+	<xs:element name="billTo" type="ShipOrOrderToType"/>
+
+	<xs:element name="productName" type="xs:string"/>
+	
+	<xs:element name="quantity" type="xs:string"/>
+	<xs:element name="USPrice" type="xs:decimal"/>
+	<xs:element name="comment" type="xs:string"/>
+	<xs:element name="shipDate" type="xs:date"/>
+
+	<xs:group name="itemgroup">
+		<xs:sequence>
+			<xs:element ref="item" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:complexType name="itemsType">
+			<xs:group ref="itemgroup"/>
+	</xs:complexType>
+	
+	<xs:element name="item" type="ItemType" />
+	<xs:attribute name="partNum" type="partNumType"/>
+
+	<xs:complexType name="ItemType">
+			<xs:group ref="ItemGroup"/>
+			<xs:attribute ref="partNum"/>
+	</xs:complexType>
+	
+	<xs:element name="items" type="itemsType"/>
+	<xs:attribute name="orderDate" type="xs:date"/>
+	<xs:group name="finalGroup">
+		<xs:sequence>
+				<xs:element ref="shipTo"/>
+				<xs:element ref="billTo"/>
+				<xs:element name="comment" type="xs:string"/>
+				<xs:element ref="items"/>
+			</xs:sequence>
+	</xs:group>
+
+	<xs:complexType name="purchaseOrderType">
+			<xs:group ref="finalGroup"/>
+			<xs:attribute ref="orderDate" />
+	</xs:complexType>
+	
+	<xs:element name="purchaseOrder" type="purchaseOrderType"/>
+	
+</xs:schema>
