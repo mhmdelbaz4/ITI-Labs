@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Family (GrandFather+)>
+<!ELEMENT GrandFather (Father, Uncle+, Aunt)>
+<!ELEMENT Father (Mother, Daughter, Son)>
+<!ELEMENT Uncle (#PCDATA)>
+<!ELEMENT Aunt (#PCDATA)>
+<!ELEMENT Mother (#PCDATA)>
+<!ELEMENT Daughter (#PCDATA)>
+<!ELEMENT Son (#PCDATA)>
+<!ATTLIST Father job (Engineer | Accountant | Doctor) "Engineer">
+<!ATTLIST Daughter age NMTOKEN #REQUIRED job (Engineer | Accountant | Doctor) "Engineer">
+<!ATTLIST Son age NMTOKEN #REQUIRED sport (tennis | football) "football">
+<!ATTLIST Aunt sons NMTOKENS #IMPLIED>

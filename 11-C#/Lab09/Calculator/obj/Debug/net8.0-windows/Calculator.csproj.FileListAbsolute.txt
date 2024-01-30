@@ -1,0 +1,17 @@
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.Calculator.resources
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\ITI\ITI-Labs\12-C#\Lab09\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll

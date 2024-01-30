@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Family SYSTEM "family.dtd">
+<Family>
+
+	<GrandFather>
+		<Father job="Doctor">
+			<Mother>Mother1</Mother>
+			<Daughter age="12">Daughter1</Daughter>
+			<Son age="17" sport="tennis">Son1</Son>
+		</Father>
+		<Uncle>Uncle1.1</Uncle>
+		<Uncle>Uncle1.2</Uncle>
+		<Aunt sons="Ahmed Hany Ali">Aunt1</Aunt>
+	</GrandFather>
+
+	<GrandFather>
+		<Father job="Accountant">
+			<Mother>Mother2</Mother>
+			<Daughter age="15" job="Doctor">Daughter2</Daughter>
+			<Son age="25">Son2</Son>
+		</Father>
+		<Uncle>Uncle2</Uncle>
+		<Aunt>Aunt1</Aunt>
+	</GrandFather>
+</Family>
