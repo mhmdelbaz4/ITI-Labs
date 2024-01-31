@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<purchaseOrder orderDate="1999-10-20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:\ITI\ITI-Labs\13-XML\Lab2\lab\POrderV2.xsd">
+<purchaseOrder orderDate="1999-10-20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:\ITI\ITI-Labs\13-XML\Lab2\POrderV2.xsd">
 	<shipTo country="US">
 		<name>Alice Smith</name>
 		<street>123 Maple Street</street>
