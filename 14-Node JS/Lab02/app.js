@@ -1,7 +1,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const cors = require('cors');
-
+const router = require("./Route/studentRoute");
 const server = express();
 
 
@@ -40,19 +40,7 @@ server.use((request,response,next) =>{
 
 
 // 3......................... Routers
-server.get("/teachers" ,(request,response,next) =>{
-    response.status(200).json({data:"get /teachers"});
-});
-server.post("/teachers" ,(request,response,next) =>{
-    response.status(200).json({data:"post /teachers"});
-});
-
-server.get("/children" ,(request,response,next) =>{
-    response.status(200).json({data:"get /children"});
-});
-server.post("/children" ,(request,response,next) =>{
-    response.status(200).json({data:"post /children"});
-});
+server.use(router)
 
 // 4........................ NotFound
 server.use((request,response) =>{
