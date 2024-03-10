@@ -1,21 +1,36 @@
 const express = require("express");
-const morgan = require("morgan");
-const studentRoute = require("./Route/studentRoute");
+const mongoose = require("mongoose");
+const childRoute = require("./Route/childRoute");
 const teacherRoute = require("./Route/teacherRoute");
 const classRoute = require("./Route/classRoute");
-
+const authRoute = require("./Route/authRoute")
+const upload = require("./multerMW");
 const server = express();
+const swagger = require('./swagger');
+const port =process.env.PORT || 8080;
 
-server.listen(8080,()=>{
-    console.log("server is listening......");
-});
+mongoose.connect("mongodb://127.0.0.1:27017/NuresryDB")
+        .then(() =>{
+            console.log("DB connnected......");
+            server.listen(8080,()=>{
+                console.log(`server is listening at port ${port}`);
+            });            
+        })
+        .catch(error =>{
+            console.log("DB problem!!!!!!!!!");
+        });
 
-server.use(morgan(':method :url'));
 
+swagger(server,port);        
+////
 server.use(express.json());
+server.use(express.urlencoded({ extended: false }));
+server.use(upload.single("image"));
 
 // routers
-server.use(studentRoute);
+
+server.use(authRoute);
+server.use(childRoute);
 server.use(teacherRoute);
 server.use(classRoute)
 

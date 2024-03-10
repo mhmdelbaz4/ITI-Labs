@@ -84,4 +84,24 @@ on Student(St_Age)
 
 
 --8.Using Merge statement between the following two tables [User ID, Transaction Amount]
-merge into 
+create table DailyTransactions(
+	userID int,
+	amount int
+)
+insert into DailyTransactions values(1,1000),(2,2000),(3,1000)
+
+create table LastTransactions(
+	userID int,
+	amount int
+)
+insert into LastTransactions values(1,4000),(4,2000),(2,10000)
+
+merge into LastTransactions As T
+using DailyTransactions As S
+on T.userID = S.userID
+when matched then 
+	update 
+	set T.amount = S.amount
+when not matched then 
+	insert (userID,amount) values(S.userID ,S.amount)
+output $action;
