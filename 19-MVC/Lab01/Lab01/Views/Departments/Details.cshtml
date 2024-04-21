@@ -1,0 +1,16 @@
+﻿@model Department
+
+<form>
+    <label id="id">Id :</label>
+    <input type="text" value="@Model.Id" readonly id="id" /> <br/>
+
+    <label id="name">Name :</label>
+    <input type="text" value="@Model.Name" readonly id="name" /> <br />
+
+    <label id="location">Location :</label>
+    <input type="text" value="@Model.Location" readonly id="location" /> <br />
+</form>
+
+<a href="/Departments" >
+    <button class="btn-outline-primary">Back</button>
+</a>

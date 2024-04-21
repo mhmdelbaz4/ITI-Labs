@@ -1,0 +1,37 @@
+﻿@model Department
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-route="@Model?.Id" class="col-4">
+    
+    <div class="mb-3">
+        <label asp-for="Id"></label>
+        <input asp-for="Id" class="form-control"/>
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name"> </label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Location"> </label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Capacity"> </label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Submit" class="btn btn-success" />
+
+    <a class="btn btn-outline-primary" href="/Department/Index">Back To List</a>
+</form>
+

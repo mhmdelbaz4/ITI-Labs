@@ -1,0 +1,33 @@
+﻿@model List<Department>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Location</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Department dept in Model)
+        {
+            <tr>
+                <td>@dept.Id</td>
+                <td>@dept.Name</td>
+                <td>@dept.Location</td>
+                <td> <a href="/Departments/Details/@dept.Id" >
+                        <button class="btn-outline-primary">View</button>
+                    </a>   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/">
+    <button class="btn-outline-primary"> Back</button>
+</a>

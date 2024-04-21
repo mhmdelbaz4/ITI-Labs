@@ -1,0 +1,20 @@
+﻿@model Employee
+
+<form>
+    <label id="id">Id :</label>
+    <input type="text" value="@Model.Id" readonly id="id" /> <br/>
+
+    <label id="name">Name :</label>
+    <input type="text" value="@Model.Name" readonly id="name" /> <br />
+
+    <label id="salary">Salary :</label>
+    <input type="text" value="@Model.Salary" readonly id="salary" /> <br />
+
+    <label id="deptId">DeptId :</label>
+    <input type="text" value="@Model.DeptId" readonly id="deptId" /> <br />
+
+</form>
+
+<a href="/Employees" >
+    <button class="btn-outline-primary">Back</button>
+</a>

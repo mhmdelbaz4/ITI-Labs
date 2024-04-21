@@ -1,0 +1,48 @@
+﻿@model Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>New Student</h2>
+
+<form method="post" class="col-4">
+
+    <div class="mb-3">
+        <label asp-for="Id" class="form-label"></label>
+        <input asp-for="Id" class="form-control" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Age" class="form-label"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label"></label>
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DeptId" class="form-label"></label>
+        <select asp-for="DeptId" asp-items="@ViewBag.SelectList" class="w-100" ></select>
+    </div>
+    
+    
+    <div>
+        <input type="submit" value="Submit" class="btn btn-primary ms-2"/>
+        <a href="/Student/Index" class="btn btn-outline-primary">Back</a>
+    </div>
+
+</form>
+
+

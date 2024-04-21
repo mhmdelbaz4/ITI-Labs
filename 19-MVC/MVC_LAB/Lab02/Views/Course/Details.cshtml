@@ -1,0 +1,20 @@
+﻿@model Course
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="card  text-center">
+    <div class="card-header">
+        Course
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Id</h5>
+        <h5 class="card-title">@Model.Name</h5>
+        <h5 class="card-title">@Model.Name</h5>
+
+        <a href="/Course/Index" class="btn btn-outline-primary">Back</a>
+    </div>
+
+</div>

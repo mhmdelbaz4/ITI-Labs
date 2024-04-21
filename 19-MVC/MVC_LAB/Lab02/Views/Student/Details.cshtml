@@ -1,0 +1,20 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="card  text-center">
+    <div class="card-header">
+        Studnet
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <h5 class="card-title">@Model.Age</h5>
+        <h5 class="card-title">@Model.Address</h5>
+        <h5 class="card-title">@Model.Department.Name</h5>
+
+        <a href="/Student/Index" class="btn btn-outline-primary">Back</a>
+    </div>
+
+</div>

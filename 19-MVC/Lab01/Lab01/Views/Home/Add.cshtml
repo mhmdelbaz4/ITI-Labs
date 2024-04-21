@@ -1,0 +1,34 @@
+﻿@model (int Num1,int Num2,int Result) 
+
+@{
+    ViewData["Title"] = "Add Page";
+}
+
+<form action="/Home/Add">
+    <div style="margin:10px">
+        <label for="number1">Number 1:</label>
+        <input type="number" name="num1" id="number1" value="@Model.Num1"/>
+    </div>    
+
+    <div style="margin:10px">
+        <label for="number2">Number 2:</label>
+        <input type="number" name="num2" id="number2" value="@Model.Num2"/>
+    </div>
+
+    <div style="margin:10px">
+        <label for="number1">Number 1:</label>
+        <button href="Home/Add">Add</button>
+
+    </div>
+
+    <div style="margin:10px;">
+        <label for="result">Result:</label>
+        <input type="number" readonly value="@Model.Result"/> 
+    </div>
+
+
+</form>
+
+<a href="/Home/Index">
+    <button class="btn-outline-primary">Back</button>
+</a>

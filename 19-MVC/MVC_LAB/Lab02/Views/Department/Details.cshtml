@@ -1,0 +1,45 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="text-center">
+    <div class="alert alert-info mb-5">
+        <h2 class="text-success">
+            Id          ::: @Model.Id <br />
+            Name        ::: @Model.Name <br />
+            Location    ::: @Model.Location <br />
+            Capacity    ::: @Model.Capacity </br>
+        </h2>
+    </div>
+
+    <table class="table table-border table-striped mb-5">
+            <h2>Assigned Courses</h2>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Duration</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Course crs in Model.Courses)
+                {
+                    <tr>
+                        <td>@crs.Name</td>
+                       <td>@crs.Duration</td>
+                      @*  <td>
+                           <a class="btn btn-primary" asp-action="ShowCourseGrades" asp-controller="Department" asp-route-crsId="@crs.Id" asp-route-deptId="@Model.Id">
+                               Students Grades
+                           </a>
+                       </td> *@
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+
+    <partial name="_StudentsTable" for="@Model.Stundents" class="mb-5" />
+
+    <a href="/Department/Index" class="btn btn-outline-primary">Back</a>
+</div>

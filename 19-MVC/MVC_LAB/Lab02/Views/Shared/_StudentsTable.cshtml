@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Student>
+
+
+<table class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    @if (Model?.Count() == 0)
+    {
+        <tr>
+            <td colspan="5">No Students</td>
+        </tr>
+    }
+    else
+    {
+        <tbody>
+            @foreach (Student std in Model)
+            {
+                <tr>
+                    <td>@std.Id</td>
+                    <td>@std.Name</td>
+                    <td>@std.Age</td>
+                    <td>@std.Address</td>
+                    <td>@std.Department.Name</td>
+                    <td>
+                        <a asp-controller="Student" asp-action="Details" asp-route-id=@std.Id>
+                            <i class="fa-solid fa-eye"></i>
+                        </a>
+                        <a asp-controller="Student" asp-action="Edit" asp-route-id=@std.Id>
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+                        <a asp-controller="Student" asp-action="Delete" asp-route-id=@std.Id onclick="return confirm('Do you Sure to delete ?');">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    }
+
+
+</table>

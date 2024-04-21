@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Stundets";
+}
+
+<a href="/Student/Create" class="btn btn-primary mb-3">Add New</a>
+
+<partial name="_StudentsTable" for="@Model" />

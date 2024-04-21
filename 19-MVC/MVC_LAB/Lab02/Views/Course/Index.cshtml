@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Course>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary mb-3">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Duration</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Duration</td>
+           <td>
+                        <a asp-controller="Course" asp-action="Details" asp-route-id=@item.Id>
+                            <i class="fa-solid fa-eye"></i>
+                        </a>
+                        <a asp-controller="Course" asp-action="Edit" asp-route-id=@item.Id>
+                            <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+                        <a asp-controller="Course" asp-action="Delete" asp-route-id=@item.Id onclick="return confirm('Do you Sure to delete ?');">
+                            <i class="fa-solid fa-trash"></i>
+                        </a>
+           </td>        
+       </tr>
+}
+    </tbody>
+</table>

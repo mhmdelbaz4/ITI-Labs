@@ -1,0 +1,36 @@
+﻿@model List<Employee>
+
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Salary</th>
+            <th>DeptId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Employee emp in Model)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Salary</td>
+                <td>@emp.DeptId</td>
+                <td>
+                    <a href="/Employees/Details/@emp.Id">
+                        <button class="btn-outline-primary">View</button>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/">
+    <button class="btn-outline-primary"> Back</button>
+</a>
